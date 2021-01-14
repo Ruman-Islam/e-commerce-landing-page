@@ -1,15 +1,11 @@
 * {
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 section{
     margin-bottom: 100px;
 }
 
-main{
-    width: 1000px;
-    max-width: 90%;
-    margin: 0 auto;
-}
+
 .nav-font a{
     font-size: 18px;
     font-weight: 700;
