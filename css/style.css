@@ -66,7 +66,7 @@ h2{
     align-items: center;
 }
 
-@media (max-width:668px){
+@media (max-width:576px){
     .section-title{
         text-align: center;
     }
@@ -75,6 +75,14 @@ h2{
         place-items: center;
     }
     .shopping-cart{
-        margin-top: 50px;   
+        margin-top: 100px;
+        margin-bottom: -50px;
     }
 }
+
+@media (max-width:768px){
+    button{
+        display: flex;
+    }
+}
+
