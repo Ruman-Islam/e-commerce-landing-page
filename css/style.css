@@ -42,7 +42,7 @@ article{
 
 .card-body img{
     width: 80%;
-    background-color: rgb(241, 241, 241);
+    background-color: #F0F2F5;
     margin-left: 15px;
     margin-top: 50px;
     border-radius: 20px;
@@ -55,6 +55,8 @@ article{
 
 .card-footer-section{
     border: 0;
+    background-color: #F0F2F5;
+    border-radius: 20px;
 }
 
 h2{
