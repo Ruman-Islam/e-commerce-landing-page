@@ -98,7 +98,9 @@ h2{
         place-items: center;
     }
 
-
+    .navbar-brand> img{
+        width: 150px;
+    }
     .shopping-cart{
         margin-top: 100px;
         margin-bottom: 50px;
