@@ -39,7 +39,7 @@ article{
 }
 
 .card-body img{
-    width: 80%;
+    width: 80%%;
     background-color: #F0F2F5;
     margin-left: 15px;
     margin-top: 50px;
@@ -74,7 +74,7 @@ h2{
     }
     .shopping-cart{
         margin-top: 100px;
-        margin-bottom: -50px;
+        margin-bottom: 50px;
     }
 }
 
